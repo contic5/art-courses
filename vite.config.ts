@@ -3,7 +3,7 @@ import { defineConfig } from 'vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/photoshop-courses/', // match your repo name exactly
+  base: '/art-courses/', // match your repo name exactly
    build: {
     outDir: 'build' // Optional — only if you want `build` instead of `dist`
   },
