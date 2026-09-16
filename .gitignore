@@ -15,6 +15,9 @@ dist-ssr
 #temporary files
 *$*
 old
+build
+Graphic Design.txt
+Animation.txt
 
 # Editor directories and files
 .vscode/*

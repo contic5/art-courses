@@ -6,8 +6,8 @@ function CourseElement(props: any)
     return (<>
     <div className="row">
     <div className="col border outer_cell">
-    <h2>{course["Course"]}</h2>
-    <h3>By {course["Provider"]}</h3>
+    <h3>{course["Course"]}</h3>
+    <h4>By {course["Provider"]}</h4>
     <p><a href={course["Link"]}>{course["Link"]}</a></p>
     <p>{course["Description"]}</p>
     
